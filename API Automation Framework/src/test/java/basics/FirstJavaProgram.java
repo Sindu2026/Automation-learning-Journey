@@ -12,5 +12,6 @@ public class FirstJavaProgram { public static void main(String[] args) {
     if (learningAutomation) {
         System.out.println("Transitioning from Manual to Automation 🚀");
     }
+    System.out.println("Next goal: API Automation using Rest Assured 💪");
 }
 }
